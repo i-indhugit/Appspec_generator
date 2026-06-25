@@ -1,0 +1,160 @@
+{
+  "results": [
+    {
+      "scenarioId": 1,
+      "prompt": "CRM for a real estate agency with WhatsApp notifications.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 17,
+      "estimatedCost": 0.046724,
+      "integrationsDetected": [
+        "whatsapp"
+      ]
+    },
+    {
+      "scenarioId": 2,
+      "prompt": "Task manager with Slack alerts.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 2,
+      "estimatedCost": 0.0327475,
+      "integrationsDetected": [
+        "slack"
+      ]
+    },
+    {
+      "scenarioId": 3,
+      "prompt": "Inventory system with email alerts.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 1,
+      "estimatedCost": 0.0412545,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 4,
+      "prompt": "HR tool with leave approval notifications.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 1,
+      "estimatedCost": 0.041259500000000005,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 5,
+      "prompt": "Ecommerce backend with Stripe and Gmail.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 4,
+      "estimatedCost": 0.041257,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 6,
+      "prompt": "Event platform with WhatsApp confirmations.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 2,
+      "estimatedCost": 0.041259500000000005,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 7,
+      "prompt": "Project tracker with Jira and Google Sheets.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 1,
+      "estimatedCost": 0.041259500000000005,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 8,
+      "prompt": "An app.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 2,
+      "estimatedCost": 0.041237,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 9,
+      "prompt": "Build something like Notion for doctors.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 1,
+      "estimatedCost": 0.041257,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 10,
+      "prompt": "Platform with login, payments, roles, chat, files, mobile, analytics and marketplace.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 1,
+      "estimatedCost": 0.0412845,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 11,
+      "prompt": "CRM and project manager and invoicing tool.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 2,
+      "estimatedCost": 0.041259500000000005,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    },
+    {
+      "scenarioId": 12,
+      "prompt": "Task manager but make it smart.",
+      "success": true,
+      "failedStage": null,
+      "repairStrategy": null,
+      "retryCount": 0,
+      "latencyMs": 1,
+      "estimatedCost": 0.041252,
+      "integrationsDetected": [
+        "gmail"
+      ]
+    }
+  ]
+}
